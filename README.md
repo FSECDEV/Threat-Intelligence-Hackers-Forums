@@ -19,3 +19,5 @@ A directory of hacker forums
 | t1eron3.vip  | https://t1eron3.vip/                             | http://jprrin6bqe3flvtpyxkt4zsmzc3u6vvn7ahgtcbul224w3xn4h3gawid.onion                                                                                                                              |                            |
 | Breachforums | https://bf.st/                                   | http://breached4wtyw5fb45zj7sggnoazgv3aohme2zftkrndhvo76d5q5uad.onion/                                                                                                                             |                            |
 
+
+**Last Update:** Tue Sep 15 03:22:32 CEST 2026
